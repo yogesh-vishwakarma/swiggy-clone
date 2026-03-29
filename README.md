@@ -8,7 +8,7 @@ It focuses on building a smooth user experience for browsing restaurants, explor
 ## 🎥 Demo Video
 
 
-![Project Demo](./demo/ProjectDemo.gif)
+./demo/ProjectDemo.gif
 
 
 ---
